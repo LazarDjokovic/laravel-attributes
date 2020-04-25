@@ -1,5 +1,5 @@
 {
-    "name": "rinvex/laravel-attributes",
+    "name": "kjmtrue/laravel-attributes",
     "description": "Rinvex Attributes is a robust, intelligent, and integrated Entity-Attribute-Value model (EAV) implementation for Laravel Eloquent, with powerful underlying for managing entity attributes implicitly as relations with ease. It utilizes the power of Laravel Eloquent, with smooth and seamless integration.",
     "type": "library",
     "keywords": [
@@ -48,13 +48,13 @@
         }
     ],
     "require": {
-        "php": "^7.4.0",
+        "php": "^7.4.0|^7.3",
         "illuminate/console": "^7.0.0",
         "illuminate/database": "^7.0.0",
         "illuminate/support": "^7.0.0",
         "jeremeamia/superclosure": "^2.4.0",
-        "rinvex/laravel-cacheable": "^4.0.0",
-        "rinvex/laravel-support": "^4.0.0",
+        "kjmtrue/laravel-cacheable": "dev-master",
+        "kjmtrue/laravel-support": "dev-master",
         "spatie/eloquent-sortable": "^3.7.0",
         "spatie/laravel-sluggable": "^2.2.0",
         "spatie/laravel-translatable": "^4.2.0"
