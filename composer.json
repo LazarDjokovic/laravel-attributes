@@ -53,8 +53,8 @@
         "illuminate/database": "^7.0.0",
         "illuminate/support": "^7.0.0",
         "jeremeamia/superclosure": "^2.4.0",
-        "kjmtrue/laravel-cacheable": "dev-master",
-        "kjmtrue/laravel-support": "dev-master",
+        "kjmtrue/laravel-cacheable": "^4.1",
+        "kjmtrue/laravel-support": "^4.1",
         "spatie/eloquent-sortable": "^3.7.0",
         "spatie/laravel-sluggable": "^2.2.0",
         "spatie/laravel-translatable": "^4.2.0"
